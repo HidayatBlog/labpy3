@@ -46,9 +46,47 @@
 
 ![untitled1 5](https://user-images.githubusercontent.com/46746119/53140232-aa603180-35be-11e9-927f-26d4f4316a26.jpg)
 
+**Latihan Kedua**                                                                                                                                                                                                                                                                       
+***Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.***                                                                                
+***Dan Memasukkan angka 0 untuk berhenti.***                                                                                                             
+
+1. Ketikan Syntax :                                                                                                                                                                                                                                                                   
+**print('====== Menentukan Bilangan Terbesar ======')**                                                                                                           
+**max=0**                                                                                                                                             
+**while True:**                                                                                                                                       
+	**a=int(input('Masukkan bilangan = '))**                                                                                                           
+	**if max < a**                                                                                                                                                                                                                                                                                            
+		**max = a**                                                                                                                                           
+	**if a==0:**                                                                                                                                          
+		**break**                                                                                                                                                                                                                                                                        
+**print('Bilangan terbesarnya adalah = ',max)**  
+
+***print('====== Menentukan Bilangan Terbesar ======')***  :                                                                                    
+Digunakan untuk memberikan judul dari program yang akan dibuat                                                                                        
+
+**max=0**                                                                                                                                       
+Di gunakan untuk memberikan varibel pada *max*                                                                                               
+
+**while True:**                                                                                                                                 
+bentuk syntax *Perulangan*                                                                                                                                  
+
+**a=int(input('Masukkan bilangan = '))**                                                                                                              
+di gunakan untuk memasukan bilangan variabel pada nilai (a)                                                                                           
+
+**if max < a**                                                                                                                                                                                                                                                                                                                                                                                                                                 
+**max = a**                                                                                                                                     
+Di gunakan sebagai penegasan bahwa jika *max* lebih kecil dari nilai(a) maka *max* = nilai(a)                                                      
+
+**if a==0:**                                                                                                                                                                                                                                                                              
+**break**                                                                                                                                       
+dan ini di gunakan untuk perintah apabila nilai (a) di isi (0) maka pencarian cilai berhenti dengan menggunakan *break*                
+
+**print('Bilangan terbesarnya adalah = ',max)**                                                                                                    
+dan perintah ini untuk menampilkan hasil bilangan yang dimasukan dan terbesar                                                                      
 
 ![untitled2 1](https://user-images.githubusercontent.com/46746119/53140234-aaf8c800-35be-11e9-8685-f41bc40628cb.jpg)
 
+Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk menjalankan hasil dari syntax yang kita buat                  
 
 ![untitled2 2](https://user-images.githubusercontent.com/46746119/53140236-aaf8c800-35be-11e9-9260-2a440d9ad99b.jpg)
 

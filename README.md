@@ -13,6 +13,11 @@
 
 ![untitled1 1](https://user-images.githubusercontent.com/46746119/53140226-a92f0480-35be-11e9-9dcc-1a68a9f9e63f.jpg)
 
+4. Ketik Syntac **import random**                                                                                                            
+                **n = int(input("masukan Nilai N:"))**                                                                                         
+
+**Import random**                      : berfungsi meng-acak hasil dari perulangan yang akan kita buat                                                               
+**n = int(input("masukan Nilai N:"))** : sedangkan untuk syntac ini kita gunakan untuk memasukan Variabel
 
 ![untitled1 2](https://user-images.githubusercontent.com/46746119/53140227-a9c79b00-35be-11e9-9930-60338d0cefd2.jpg)
 

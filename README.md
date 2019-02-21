@@ -1,11 +1,10 @@
 ## Tugas Ketiga                                                                                                                                    
 
-**Membuat Latihan Pertama, Kedua, dan Ketiga**
+## Membuat Latihan Pertama, Kedua, dan Ketiga**
 
 **1. Latihan Pertama**                                                                                                                                
 
-## Menampilkan bilangan acak yang lebih kecil dari 0,5                                                                                                 
-## Menggunakan syntac perulangan dan random                                                                                                                            
+**Menampilkan bilangan acak yang lebih kecil dari 0,5 serta menggunakan syntac perulangan dan random                                                                                                                            
 
 
 ![untitled1 1](https://user-images.githubusercontent.com/46746119/53140226-a92f0480-35be-11e9-9dcc-1a68a9f9e63f.jpg)

@@ -13,7 +13,7 @@
 
 ![untitled1 1](https://user-images.githubusercontent.com/46746119/53140226-a92f0480-35be-11e9-9dcc-1a68a9f9e63f.jpg)
 
-4. Ketik Syntac :                                                                                                                                      
+4. Ketik Syntax :                                                                                                                                      
    **import random**                                                                                                                                                                                                                                           
    **n = int(input("masukan Nilai N:"))**                                                                                         
 
@@ -22,15 +22,25 @@
 
 ![untitled1 2](https://user-images.githubusercontent.com/46746119/53140227-a9c79b00-35be-11e9-9930-60338d0cefd2.jpg)
 
-5. Ketik Syntac :                                                                                                                                                    
+5. Ketik Syntax :                                                                                                                                                    
    **a=0**
    **for c in range(n) :**                                                                                                                         
    
    **a=0** : sebagai Variabel yang mana nanti gunakan untuk mengurutkan data**                                                                                      
    **for c in range(n) :** : sebagai perintah perulangan data dari variabel (N)
    
-![untitled1 4](https://user-images.githubusercontent.com/46746119/53140231-aa603180-35be-11e9-8dd6-7c4df75094fd.jpg)
+![untitled1 3](https://user-images.githubusercontent.com/46746119/53140228-a9c79b00-35be-11e9-96b9-a1d43ec07484.jpg)
 
+6. ketik Syntax :
+   **a+= 1**                                                                                                                                                   
+    **b = random.uniform(.0,.5)**                                                                                                                     
+    **print('data ke:',a,'==>',b)**                                                                                                                
+**print("selesai")**                                                                                                                               
+
+**a+= 1** : sebagai bentuk perintah untuk mengurutkan data yang kita buat sebelumnya                                                               
+**b = random.uniform(.0,.5)** : digunakan sebagai variabel peng-acakan pada nilai (b)                                                                       
+**print('data ke:',a,'==>',b)** : digunakan untuk memunculkan hasil data (a) *pengurutan* dan (b) *pengacakan*                                        
+**print("selesai")** : memunculkan pernyataan bahwa hasil telah di temukan dan selesai
 
 ![untitled1 5](https://user-images.githubusercontent.com/46746119/53140232-aa603180-35be-11e9-927f-26d4f4316a26.jpg)
 

@@ -14,18 +14,21 @@
 ![untitled1 1](https://user-images.githubusercontent.com/46746119/53140226-a92f0480-35be-11e9-9dcc-1a68a9f9e63f.jpg)
 
 4. Ketik Syntac :                                                                                                                                      
-**import random**                                                                                                                                                                                                                                           
-**n = int(input("masukan Nilai N:"))**                                                                                         
+   **import random**                                                                                                                                                                                                                                           
+   **n = int(input("masukan Nilai N:"))**                                                                                         
 
-**Import random**                      - : berfungsi meng-acak hasil dari perulangan yang akan kita buat                                                               
-**n = int(input("masukan Nilai N:"))** - : sedangkan untuk syntac ini kita gunakan untuk memasukan Variabel
+   **Import random**                      - : berfungsi meng-acak hasil dari perulangan yang akan kita buat                                                               
+**n = int(input("masukan Nilai N:"))** - : sedangkan untuk syntac ini kita gunakan untuk memasukan Variabel pada nilai N
 
 ![untitled1 2](https://user-images.githubusercontent.com/46746119/53140227-a9c79b00-35be-11e9-9930-60338d0cefd2.jpg)
 
-
-![untitled1 3](https://user-images.githubusercontent.com/46746119/53140228-a9c79b00-35be-11e9-96b9-a1d43ec07484.jpg)
-
-
+5. Ketik Syntac :                                                                                                                                                    
+   **a=0**
+   **for c in range(n) :**                                                                                                                         
+   
+   **a=0** : sebagai Variabel yang mana nanti gunakan untuk mengurutkan data**                                                                                      
+   **for c in range(n) :** : sebagai perintah perulangan data dari variabel (N)
+   
 ![untitled1 4](https://user-images.githubusercontent.com/46746119/53140231-aa603180-35be-11e9-8dd6-7c4df75094fd.jpg)
 
 

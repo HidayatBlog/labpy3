@@ -107,51 +107,56 @@ selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%,
 sehingga laba menjadi 3%.													
 Hitung total keuntungan selama 8 bulan berjalan usahanya.***									
 
-1.Ketikan syntax :														
-**x=100000000**															
-**sum=0**															
-**y=0**																
-**lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x)* .5, int(x) * .5, int(x) * .5, int(x) *.2]
-print('modal awal seorang pengusaha :',x)**											
-**for i in lb :**														
-    **sum=sum+i**														
-    **y+=1**															
-    **print('laba bulan ke-', y ,'sebesar :',i)**										
+1.Ketikan syntax :														 
+**x=100000000**															 
+**sum=0 y=0**															 
+**lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) .5, int(x) * .5, int(x) * .5, int(x) .2]**				
+**print('modal awal seorang pengusaha :',x)**											
 
-**print('total laba yang di dapet adalah :',sum)**
-
-**x=100000000**															
-di gunakan untuk meberikan variabel pada nilai(x) sebagai modal awal
-
-**sum=0**															
-Digunakan untuk memberikan variabel pada syntax penjumlahan(*Sum*)								
-
-**y=0**																
-Digunakan untuk memberikan variabel pada nilai (y) untuk mengurutkan keterangan laba pada bulan					
-
-**lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x)* .5, int(x) * .5, int(x) * .5, int(x) *.2] *
-
-menerangkan bahwa (lb) = hasil atau persenan dari modal awal								
-
-**print('modal awal seorang pengusaha :',x)											
-menampilkan hasil dari hitungan laba di atas											
-
-**for i in lb :**
-syntax ini berfungsi mengulang dan memasukan laba ke dalam nilai(i)								
-
-**sum=sum+i**
-menjumlah kan nilai laba yang berada di dalam nilai(i)										
-
-**y+=1**															
-mengurutkan nilai pada laba,													
-
-**print('laba bulan ke-', y ,'sebesar :',i)**											
-menampilkan hasil dari variabel yang di dapat
+**for i in lb :															 
+sum=sum+i															 
+y+=1																 
+print('laba bulan ke-', y ,'sebesar :',i)**											
 
 **print('total laba yang di dapet adalah :',sum)**										
+
+*x=100000000*
+
+di gunakan untuk meberikan variabel pada nilai(x) sebagai modal awal
+
+*sum=0*
+
+Digunakan untuk memberikan variabel pada syntax penjumlahan(Sum)
+
+*y=0*
+
+Digunakan untuk memberikan variabel pada nilai (y) untuk mengurutkan keterangan laba pada bulan
+
+*lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) .5, int(x) * .5, int(x) * .5, int(x) *.2] *
+
+menerangkan bahwa (lb) = hasil atau persenan dari modal awal
+
+*print('modal awal seorang pengusaha :',x)*
+
+menampilkan hasil dari hitungan laba di atas
+
+*for i in lb :* 
+
+syntax ini berfungsi mengulang dan memasukan laba ke dalam nilai(i)
+
+*sum=sum+i* 
+
+menjumlah kan nilai laba yang berada di dalam nilai(i)
+
+*y+=1* 
+
+mengurutkan nilai pada laba,
+
+*print('laba bulan ke-', y ,'sebesar :',i)* 
+
+menampilkan hasil dari variabel yang di dapat
+
+*print('total laba yang di dapet adalah :',sum)*
+
 menampilkan hasil jumlahan variabel atau hasil laba
 
-![untitled3 1](https://user-images.githubusercontent.com/46746119/53140239-ab915e80-35be-11e9-9ee3-aac102ae0b6f.jpg)
-
-Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk menjalankan hasil dari syntax yang kita buat
-![untitled3 2](https://user-images.githubusercontent.com/46746119/53140240-ab915e80-35be-11e9-9353-f65a856d31ee.jpg)

@@ -131,18 +131,27 @@ Digunakan untuk memberikan variabel pada nilai (y) untuk mengurutkan keterangan 
 
 **lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x)* .5, int(x) * .5, int(x) * .5, int(x) *.2] *
 
-menerang bahwa
+menerangkan bahwa (lb) = hasil atau persenan dari modal awal								
 
-**print('modal awal seorang pengusaha :',x)
+**print('modal awal seorang pengusaha :',x)											
+menampilkan hasil dari hitungan laba di atas											
 
 **for i in lb :**
+syntax ini berfungsi mengulang dan memasukan laba ke dalam nilai(i)								
 
-    **sum=sum+i**														
-    **y+=1**															
-    **print('laba bulan ke-', y ,'sebesar :',i)**										
+**sum=sum+i**
+menjumlah kan nilai laba yang berada di dalam nilai(i)										
 
-**print('total laba yang di dapet adalah :',sum)**
+**y+=1**															
+mengurutkan nilai pada laba,													
+
+**print('laba bulan ke-', y ,'sebesar :',i)**											
+menampilkan hasil dari variabel yang di dapat
+
+**print('total laba yang di dapet adalah :',sum)**										
+menampilkan hasil jumlahan variabel atau hasil laba
+
 ![untitled3 1](https://user-images.githubusercontent.com/46746119/53140239-ab915e80-35be-11e9-9ee3-aac102ae0b6f.jpg)
 
-
+Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk menjalankan hasil dari syntax yang kita buat
 ![untitled3 2](https://user-images.githubusercontent.com/46746119/53140240-ab915e80-35be-11e9-9353-f65a856d31ee.jpg)

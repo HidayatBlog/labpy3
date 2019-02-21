@@ -37,16 +37,16 @@
     **print('data ke:',a,'==>',b)**                                                                                                                
 **print("selesai")**                                                                                                                               
 
-**a+= 1** :															 
+**a+= 1** :															
 sebagai bentuk perintah untuk mengurutkan data yang kita buat sebelumnya							
 
-**b = random.uniform(.0,.5)** :													 
+**b = random.uniform(.0,.5)** :													
 digunakan sebagai variabel peng-acakan pada nilai (b)										
 
-**print('data ke:',a,'==>',b)** :												 
+**print('data ke:',a,'==>',b)** :											
 digunakan untuk memunculkan hasil data (a) *pengurutan* dan (b) *pengacakan*							
 
-**print("selesai")** :														 
+**print("selesai")** :													
 memunculkan pernyataan bahwa hasil telah di temukan dan selesai									                                                             
 
 *Dan jalankan syntax yang sudah di buat dengan menu **RUN** yang terdapat pada aplikasi* [Pycharm](https://www.jetbrains.com/pycharm/)
@@ -98,13 +98,14 @@ Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk m
 ![untitled2 2](https://user-images.githubusercontent.com/46746119/53140236-aaf8c800-35be-11e9-9260-2a440d9ad99b.jpg)
 
 **3. Latihan Ketiga**														
-*Membuat program sederhana dengan perulangan: "program1".py									
+
+***Membuat program sederhana dengan perulangan: "program1".py									
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan							
 modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada							
 bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5,							
 pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan							
 keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8						
-bulan berjalan usahanya.*													
+bulan berjalan usahanya.***													
 
 
 ![untitled3 1](https://user-images.githubusercontent.com/46746119/53140239-ab915e80-35be-11e9-9ee3-aac102ae0b6f.jpg)

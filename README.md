@@ -74,6 +74,8 @@ Dan jalankan syntax yang sudah di buat dengan menu **RUN** yang terdapat pada ap
   **break**                                                                                                                                                                                                                                                                        
 **print('Bilangan terbesarnya adalah = ',max)**  
 
+![untitled2 1](https://user-images.githubusercontent.com/46746119/53140234-aaf8c800-35be-11e9-8685-f41bc40628cb.jpg)
+
 **a**. *print('====== Menentukan Bilangan Terbesar ======')* :                                                                                    
 Digunakan untuk memberikan judul dari program yang akan dibuat                                                                                        
 
@@ -97,7 +99,7 @@ dan ini di gunakan untuk perintah apabila nilai (a) di isi (0) maka pencarian ni
 **i**. *print('Bilangan terbesarnya adalah = ',max)*                                                                                                    
 dan perintah ini untuk menampilkan hasil bilangan yang dimasukan dan terbesar                                                                      
 
-![untitled2 1](https://user-images.githubusercontent.com/46746119/53140234-aaf8c800-35be-11e9-8685-f41bc40628cb.jpg)
+
 
 Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk menjalankan hasil dari syntax yang kita buat                  
 
@@ -130,6 +132,8 @@ print('laba bulan ke-', y ,'sebesar :',i)**
 
 **print('total laba yang di dapet adalah :',sum)**										
 
+![untitled3 1](https://user-images.githubusercontent.com/46746119/53223519-2ed8b000-36a4-11e9-9ccf-7d5bf0af7874.jpg)
+
 **a**. *x=100000000*																									                                                          
 di gunakan untuk meberikan variabel pada nilai(x) sebagai modal awal
 
@@ -139,7 +143,7 @@ Digunakan untuk memberikan variabel pada syntax penjumlahan(Sum)
 **c**. *y=0*																													                                                          
 Digunakan untuk memberikan variabel pada nilai (y) untuk mengurutkan keterangan laba pada bulan
 
-**d**. *lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) .5, int(x) * .5, int(x) * .5, int(x) *.2] *					            
+**d**. *lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) .5, int(x) * .5, int(x) * .5, int(x) *.2]*					            
 menerangkan bahwa (lb) = hasil atau persenan dari modal awal
 
 **e**. *print('modal awal seorang pengusaha :',x)*										                                                           
@@ -160,7 +164,7 @@ menampilkan hasil dari variabel yang di dapat
 **j**. *print('total laba yang di dapet adalah :',sum)*								                                                          
 menampilkan hasil jumlahan variabel atau hasil laba
 
-![untitled3 1](https://user-images.githubusercontent.com/46746119/53223519-2ed8b000-36a4-11e9-9ccf-7d5bf0af7874.jpg)
+
 
 Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk menjalankan hasil dari syntax yang kita buat
 
@@ -168,5 +172,5 @@ Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk m
 
 ***SEKIAN TUGAS DARI SAYA***
 
-*Rahman Hidayat*
+*Rahman Hidayat*                                                                                                                
 *Terima Kasih*

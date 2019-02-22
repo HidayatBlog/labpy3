@@ -6,14 +6,14 @@
 
 **Menampilkan bilangan acak yang lebih kecil dari 0,5 serta menggunakan syntac perulangan dan random**                                                                                                                           
 
-**1**. Buka aplikasi [Pycharm](https://www.jetbrains.com/pycharm/)		
-**2**. Buka New Scratch File                                                                                                                                    
-**3**. ketik syntac **Print('Bilangan Acak Yang Lebih Kecil Dari 0,5')**                                                                                                                  
+**a**. Buka aplikasi [Pycharm](https://www.jetbrains.com/pycharm/)		
+**b**. Buka New Scratch File                                                                                                                                    
+**c**. ketik syntac **Print('Bilangan Acak Yang Lebih Kecil Dari 0,5')**                                                                                                                  
 Kita gunakan sebagai *Judul* dari program yang akan kita buat
 
 ![untitled1 1](https://user-images.githubusercontent.com/46746119/53140226-a92f0480-35be-11e9-9dcc-1a68a9f9e63f.jpg)
 
-**4**. Ketik Syntax :                                                                                                                                      
+**d**. Ketik Syntax :                                                                                                                                      
    **import random**                                                                                                                                                                                                                                           
    **n = int(input("masukan Nilai N:"))**                                                                                         
 
@@ -29,10 +29,10 @@ Kita gunakan sebagai *Judul* dari program yang akan kita buat
    **a=0**                                                                                                                                      
    **for c in range(n) :**                                                                                                                                                                                                                                                  
    
-   **a**. *a=0*																												
+   **a**. *a=0*																											                                                            
    sebagai Variabel yang mana nanti gunakan untuk mengurutkan data
    
-   **b**. *for c in range(n)*																								
+   **b**. *for c in range(n)*																						                                                       	
    sebagai perintah perulangan data dari variabel (N)
    
 ![untitled1 3](https://user-images.githubusercontent.com/46746119/53140228-a9c79b00-35be-11e9-96b9-a1d43ec07484.jpg)
@@ -43,16 +43,16 @@ Kita gunakan sebagai *Judul* dari program yang akan kita buat
     **print('data ke:',a,'==>',b)**                                                                                                                
 **print("selesai")**                                                                                                                               
 
-**a**. *a+= 1* :															
+**a**. *a+= 1* :															                                                                                  
 sebagai bentuk perintah untuk mengurutkan data yang kita buat sebelumnya							
 
-**b**. *b = random.uniform(.0,.5)* :													
+**b**. *b = random.uniform(.0,.5)* :													                                                                  
 digunakan sebagai variabel peng-acakan pada nilai (b)										
 
-**c**. *print('data ke:',a,'==>',b)* :											
+**c**. *print('data ke:',a,'==>',b)* :											                                                                    
 digunakan untuk memunculkan hasil data (a) *pengurutan* dan (b) *pengacakan*							
 
-**d**. *print("selesai")* :													
+**d**. *print("selesai")* :													                                                                            
 memunculkan pernyataan bahwa hasil telah di temukan dan selesai									                                                             
 
 Dan jalankan syntax yang sudah di buat dengan menu **RUN** yang terdapat pada aplikasi [Pycharm](https://www.jetbrains.com/pycharm/)
@@ -63,7 +63,7 @@ Dan jalankan syntax yang sudah di buat dengan menu **RUN** yang terdapat pada ap
 ***Mencari bilangan dan menampilkan bilangan terbesar dari (n) sebuah data yang diinputkan.***                                                                                
 ***Dan Memasukkan angka 0 untuk berhenti.***                                                                                                             
 
-**1**. Ketikan Syntax :                                                                                                                                                                                                                                                                   
+**1**. Ketikan Syntax :                                                                                                                  
 **print('====== Menentukan Bilangan Terbesar ======')**                                                                                                           
 **max=0**                                                                                                                                             
 **while True:**                                                                                                                                       
@@ -74,13 +74,13 @@ Dan jalankan syntax yang sudah di buat dengan menu **RUN** yang terdapat pada ap
   **break**                                                                                                                                                                                                                                                                        
 **print('Bilangan terbesarnya adalah = ',max)**  
 
-**a**. *print('====== Menentukan Bilangan Terbesar ======')* :                                                                                    
+**a**. *print('====== Menentukan Bilangan Terbesar ======')* :                                                                  
 Digunakan untuk memberikan judul dari program yang akan dibuat                                                                                        
 
-**b**. *max=0*                                                                                                                                       
+**b**. *max=0*                                                                                                                  
 Di gunakan untuk memberikan varibel pada *max*                                                                                               
 
-**c**. *while True:*                                                                                                                                 
+**c**. *while True:*                                                                                                            
 bentuk syntax *Perulangan*                                                                                                                                  
 
 **d**. *a=int(input('Masukkan bilangan = '))*                                                                                                             

@@ -125,9 +125,9 @@ Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk m
 
 **print('modal awal seorang pengusaha :',x)**											
 
-**for i in lb :															 
-sum=sum+i															 
-y+=1																 
+**for i in lb :															                                                                                    
+sum=sum+i															                                                                                          
+y+=1																                                                                                            
 print('laba bulan ke-', y ,'sebesar :',i)**											
 
 **print('total laba yang di dapet adalah :',sum)**										

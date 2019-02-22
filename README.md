@@ -169,3 +169,4 @@ Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk m
 ***SEKIAN TUGAS DARI SAYA***
 
 *Rahman Hidayat*
+*Terima Kasih*

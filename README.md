@@ -152,4 +152,7 @@ menampilkan hasil dari variabel yang di dapat
 
 *print('total laba yang di dapet adalah :',sum)*
 menampilkan hasil jumlahan variabel atau hasil laba
+![untitled3 1](https://user-images.githubusercontent.com/46746119/53223519-2ed8b000-36a4-11e9-9ccf-7d5bf0af7874.jpg)
+![untitled3 2](https://user-images.githubusercontent.com/46746119/53223520-2ed8b000-36a4-11e9-8b3a-2d50808f6efd.jpg)
+
 

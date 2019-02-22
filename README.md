@@ -29,10 +29,10 @@ Kita gunakan sebagai *Judul* dari program yang akan kita buat
    **a=0**                                                                                                                                      
    **for c in range(n) :**                                                                                                                                                                                                                                                  
    
-   **a**. *a=0*																												
+   **a**. *a=0*																												                                                          
    sebagai Variabel yang mana nanti gunakan untuk mengurutkan data
    
-   **b**. *for c in range(n)*																								
+   **b**. *for c in range(n)*																								                                                    
    sebagai perintah perulangan data dari variabel (N)
    
 ![untitled1 3](https://user-images.githubusercontent.com/46746119/53140228-a9c79b00-35be-11e9-96b9-a1d43ec07484.jpg)
@@ -43,16 +43,16 @@ Kita gunakan sebagai *Judul* dari program yang akan kita buat
     **print('data ke:',a,'==>',b)**                                                                                                                
 **print("selesai")**                                                                                                                               
 
-**a**. *a+= 1* :															
+**a**. *a+= 1* :															                                                                                  
 sebagai bentuk perintah untuk mengurutkan data yang kita buat sebelumnya							
 
-**b**. *b = random.uniform(.0,.5)* :													
+**b**. *b = random.uniform(.0,.5)* :													                                                                  
 digunakan sebagai variabel peng-acakan pada nilai (b)										
 
-**c**. *print('data ke:',a,'==>',b)* :											
+**c**. *print('data ke:',a,'==>',b)* :											                                                                    
 digunakan untuk memunculkan hasil data (a) *pengurutan* dan (b) *pengacakan*							
 
-**d**. *print("selesai")* :													
+**d**. *print("selesai")* :													                                                                            
 memunculkan pernyataan bahwa hasil telah di temukan dan selesai									                                                             
 
 Dan jalankan syntax yang sudah di buat dengan menu **RUN** yang terdapat pada aplikasi [Pycharm](https://www.jetbrains.com/pycharm/)
@@ -107,11 +107,11 @@ Pilih menu *Run* pada menu [Pycharm](https://www.jetbrains.com/pycharm/) untuk m
 
 ***Membuat program sederhana dengan perulangan: "program1".py***	
 
-**1**. Seorang pengusaha menginvestasikan uang untuk memulai usahanya dengan modal awal 100 juta,																						
-**2**. pada bulan pertama dan kedua belum mendapatkan laba.						
-**3**. pada bulan ketiga baru mulai mendapatkan laba sebesar 1%				
-**4**. dan pada bulan ke 5, pendapatan meningkat 5%,									
-**5**. selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%																														
+**1**. Seorang pengusaha menginvestasikan uang untuk memulai usahanya dengan modal awal 100 juta,						                    
+**2**. pada bulan pertama dan kedua belum mendapatkan laba.						                                                          
+**3**. pada bulan ketiga baru mulai mendapatkan laba sebesar 1%				                                                          
+**4**. dan pada bulan ke 5, pendapatan meningkat 5%,									                                                          
+**5**. selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%																						        
 **6**. sehingga laba menjadi 3%.																			
 **7**. Hitung total keuntungan selama 8 bulan berjalan usahanya.*	
 
@@ -130,34 +130,34 @@ print('laba bulan ke-', y ,'sebesar :',i)**
 
 **print('total laba yang di dapet adalah :',sum)**										
 
-**a**. *x=100000000*																									
+**a**. *x=100000000*																									                                                          
 di gunakan untuk meberikan variabel pada nilai(x) sebagai modal awal
 
-**b**. *sum=0*																												
+**b**. *sum=0*																												                                                          
 Digunakan untuk memberikan variabel pada syntax penjumlahan(Sum)
 
-**c**. *y=0*																													
+**c**. *y=0*																													                                                          
 Digunakan untuk memberikan variabel pada nilai (y) untuk mengurutkan keterangan laba pada bulan
 
-**d**. *lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) .5, int(x) * .5, int(x) * .5, int(x) *.2] *															
+**d**. *lb = [int(0), int(0), int(x) * .1, int(x) * .1, int(x) .5, int(x) * .5, int(x) * .5, int(x) *.2] *					            
 menerangkan bahwa (lb) = hasil atau persenan dari modal awal
 
-**e**. *print('modal awal seorang pengusaha :',x)*										
+**e**. *print('modal awal seorang pengusaha :',x)*										                                                           
 menampilkan hasil dari hitungan laba di atas
 
-**f**. *for i in lb :*																								
+**f**. *for i in lb :*																								                                                          
 syntax ini berfungsi mengulang dan memasukan laba ke dalam nilai(i)
 
-**g**. *sum=sum+i* 																										
+**g**. *sum=sum+i* 																										                                                          
 menjumlah kan nilai laba yang berada di dalam nilai(i)
 
-**h**. *y+=1* 																												
+**h**. *y+=1* 																												                                                          
 mengurutkan nilai pada laba,
 
-**i**. *print('laba bulan ke-', y ,'sebesar :',i)* 										
+**i**. *print('laba bulan ke-', y ,'sebesar :',i)* 										                                                          
 menampilkan hasil dari variabel yang di dapat
 
-**j**. *print('total laba yang di dapet adalah :',sum)*								
+**j**. *print('total laba yang di dapet adalah :',sum)*								                                                          
 menampilkan hasil jumlahan variabel atau hasil laba
 
 ![untitled3 1](https://user-images.githubusercontent.com/46746119/53223519-2ed8b000-36a4-11e9-9ccf-7d5bf0af7874.jpg)
